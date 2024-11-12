@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:parking/features/presentaion/splashscreen.dart';
 import 'core/utils/ThemeController.dart';
 import 'core/utils/constant.dart';
+import 'features/presentaion/splashscreen.dart';
 
 class ParkingEntry extends StatelessWidget {
   const ParkingEntry({super.key});
